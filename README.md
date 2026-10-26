@@ -1,4 +1,4 @@
-PTIT-Learning — Session10 Ex02
+PTIT-Learning — Session12 Ex02
 Người thực hiện: Phạm Thành Đạo
 Lớp: HCM-KS26-CNTT1
 
